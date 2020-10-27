@@ -1,0 +1,134 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Acceso_aplicacion<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Acceso_aplicacion",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Adivina_Numero<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Adivina_Numero",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Areas<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Areas",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calculos_conMath<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Calculos_conMath",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Declaradores_Operadores<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Declaradores_Operadores",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Entrada_Ejemplo1<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Entrada_Ejemplo1",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Entrada_Ejemplo2<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Entrada_Ejemplo2",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Entrada_Numeros<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Entrada_Numeros",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Evalua_edad<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Evalua_edad",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lompito<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Lompito",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Manipula_Cadenas<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Manipula_Cadenas",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Manipula_Cadenas_II<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Manipula_Cadenas_II",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Manipula_Cadenas_III<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Manipula_Cadenas_III",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeraClase<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "PrimeraClase",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variables<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pyToJava<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "pyToJava",
+            "projectName": "PrimerosPasosAndy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-variables2<PrimerosPasosAndy>",
+            "request": "launch",
+            "mainClass": "variables2",
+            "projectName": "PrimerosPasosAndy"
+        }
+    ]
+}
